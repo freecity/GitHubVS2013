@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include <cstring>
 
-void main()
+void main30()
 {
 	char *cst1 = "string one";			//fixed length??
 	char *cst2 = "string two";

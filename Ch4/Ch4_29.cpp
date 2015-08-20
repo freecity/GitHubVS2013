@@ -9,8 +9,7 @@ void main29()
 	for (size_t ix = 0; ix != 1000000; ++ix){
 		char *pc2 = new char[len + 1];
 		//strcpy(pc2, pc);						//strcpy() introduces an error
-		if (strcmp(pc2, pc))
-			;
+		
 		delete[] pc2;
 	}
 }
