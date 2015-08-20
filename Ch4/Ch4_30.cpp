@@ -11,7 +11,7 @@ void main()
 	size_t len = strlen(cst1) + strlen(cst2);
 	char *newcst = new char[len];
 
-	//strcat_s(newcst, len1, cst1);			//wrong!! strcat() function?? 
+	//strcat_s(newcst, len1, cst1);			//wrong!! strcat() function?? ?
 	//strcat_s(newcst, len2, cst2);
 	
 
